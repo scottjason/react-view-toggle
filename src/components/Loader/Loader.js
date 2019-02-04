@@ -16,7 +16,6 @@ import { Container, DotContainer, Copy, Dot } from './Loader.style';
 */
 
 const LoaderBase = props => {
-  console.log('LoaderBase', props)
   const { height, isLoaded, loaderHeight, loadingCopy } = props;
   const getTop = () => height / 2 - loaderHeight;
   return (

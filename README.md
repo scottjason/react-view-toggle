@@ -67,6 +67,8 @@ That said, you can also load a `property-detail/<id>` page directly since the `w
 
 **Image Lazy Loading**
 
+Using the react-lazy-load-image-component package for scroll position and have also included my own placeholder image, which is purposely low-rez and blurry.
+
 This placeholder image renders by default, then when the property images are fully requested and rendered a callback is invoked setting off a few functions that ultimately fade out the placeholder image and fade in the property image providing a more graceful UX than having the images awkwardly come together as they're rendered.
 
 ---
@@ -78,7 +80,7 @@ This placeholder image renders by default, then when the property images are ful
 
 ---
 
-#### List  View
+#### List View
 ![](https://raw.githubusercontent.com/scottjason/react-view-toggle/master/public/images/react-view-toggle-screenshot-2.png)
 
 ---
