@@ -76,14 +76,14 @@ This placeholder image renders by default, then when the property images are ful
 ### Should look like this once loaded:
 
 #### Card View
-![enter image description here](https://raw.githubusercontent.com/scottjason/react-view-toggle/master/public/images/react-view-toggle-screenshot-1.png)
+![enter image description here](https://raw.githubusercontent.com/scottjason/react-view-toggle/master/src/assets/images/react-view-toggle-screenshot-1.png)
 
 ---
 
 #### List View
-![](https://raw.githubusercontent.com/scottjason/react-view-toggle/master/public/images/react-view-toggle-screenshot-2.png)
+![](https://raw.githubusercontent.com/scottjason/react-view-toggle/master/src/assets/images/react-view-toggle-screenshot-2.png)
 
 ---
 
 #### Property Carousel View
-![enter image description here](https://raw.githubusercontent.com/scottjason/react-view-toggle/master/public/images/react-view-toggle-screenshot-3.png)
+![enter image description here](https://raw.githubusercontent.com/scottjason/react-view-toggle/master/src/assets/images/react-view-toggle-screenshot-3.png)
