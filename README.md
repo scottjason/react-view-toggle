@@ -22,7 +22,7 @@ then run
 ```bash
 npm start
 ```
-your browser should then automatically open `localhost:3000` (if not just enter `localhost:3000` in your browser)
+Your browser should then automatically open `localhost:3000` (if not just enter `localhost:3000` in your browser)
 
 ---
 
