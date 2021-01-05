@@ -4,7 +4,7 @@
   "author": "Scott Jason",
   "private": true,
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "polished": "^2.3.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
